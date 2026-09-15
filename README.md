@@ -9,6 +9,8 @@
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.11-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch 2.11"></a>
 </p>
 
+![alt text](hf-space-screenshot.png)
+
 Model weights: **[`Dominik72/Slopscan-Anime`](https://huggingface.co/Dominik72/Slopscan-Anime)**
 
 ## Setup
