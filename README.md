@@ -30,6 +30,17 @@ hf download Dominik72/Slopscan-Anime best.pt --local-dir .
 `torch`/`torchvision` from PyPI are CUDA builds. On a CPU-only machine install them
 from the PyTorch CPU index instead.
 
+## Optional: Gradio
+
+The Gradio app is the easiest way to use Slopscan. It's the same one that runs the Hugging Face Space and is shown above.
+
+```bash
+pip install -r requirements-gradio.txt
+python app.py
+```
+
+Then open http://127.0.0.1:7860
+
 ## Usage
 
 ```python
